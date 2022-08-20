@@ -6,8 +6,8 @@ Find out more about Open Fire at https://github.com/open-source-tabletop/openfir
 
 # Contents
 
-[Wasteland Rally Game Module Rules](https://github.com/open-source-tabletop/openfire-gm-wasteland-rally/blob/main/01-game-module.md)
+[Wasteland Rally Game Module Rules](https://github.com/open-source-tabletop/openfire-gm-wasteland-rally/blob/main/01-wasteland-rally-game-module.md)
 
-[Wasteland Rally Army Reference](https://github.com/open-source-tabletop/openfire-gm-wasteland-rally/blob/main/02-army-reference.md)
+[Wasteland Rally Army Reference](https://github.com/open-source-tabletop/openfire-gm-wasteland-rally/blob/main/02-wasteland-rally-building-a-team.md)
 
-[Wasteland Rally Campaign and Mission Rules](https://github.com/open-source-tabletop/openfire-gm-wasteland-rally/blob/main/03-campaigns-and-missions.md)
+[Wasteland Rally Campaign and Mission Rules](https://github.com/open-source-tabletop/openfire-gm-wasteland-rally/blob/main/03-wasteland-rally-campaigns-and-missions.md)
