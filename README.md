@@ -1,4 +1,5 @@
-# openfire-gm-wasteland-rally
+# Wasteland Rally
+
 A post-apocalyptic vehicle combat game for the Open Fire system.
 
 [Wasteland Rally Game Module Rules](https://github.com/open-source-tabletop/openfire-gm-wasteland-rally/blob/main/01-game-module.md)
