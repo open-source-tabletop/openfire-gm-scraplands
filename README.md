@@ -1,6 +1,10 @@
 # Wasteland Rally
 
-A post-apocalyptic vehicle combat game for the Open Fire system. Find out more about Open Fire: https://github.com/open-source-tabletop/openfire
+A post-apocalyptic vehicle combat game for the Open Fire system.
+
+Find out more about Open Fire at https://github.com/open-source-tabletop/openfire
+
+# Contents
 
 [Wasteland Rally Game Module Rules](https://github.com/open-source-tabletop/openfire-gm-wasteland-rally/blob/main/01-game-module.md)
 
