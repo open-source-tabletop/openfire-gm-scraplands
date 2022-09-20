@@ -3,6 +3,8 @@
 
 Wasteland Rally is a post apocalyptic vehicle combat Game Module for the Open Fire system. Find out more at https://github.com/open-source-tabletop/openfire/
 
+# Setting
+
 ## The End of the World
 
 The world ended in nuclear war that destroyed nearly everything, but you've heard that story before. The end of the world before is just history, a myth of a time that no one really remembers.
@@ -21,11 +23,11 @@ Those same teams that scour the wasteland have the opportunity to turn their pit
 
 ## Gates
 
+### Objective Gates
+
 Wasteland Rally uses a type of objective marker called a Gate, which is a line roughly 8-10 inches wide (though you can model more interesting terrain for your gates). Each gate also has a direction, which should be marked on the gate itself and is the direction vehicles must travel across it to count as **crossing the gate**. A vehicle has crossed a gate when it moves so that the entire vehicle has moved across the line in the correct direction.
 
 Gates in a race type mission will be numbered from 1 upwards, including any start and finish gates.
-
-## Start and Finish Lines
 
 Some gates will be designated as a Start or Finish Line (and sometimes both) and are used to determine the starting and finishing position of a vehicle in a race.
 
@@ -45,25 +47,37 @@ Once a vehicle has been removed the next gate in the sequence becomes the elimin
 
 In addition, if any vehicle crosses a gate that is 2 gates ahead of the current elimination gate (i.e. a vehicle crosses gate 4 when gate 2 is still the elimination gate) then any vehicle that has not crossed the elimination gate is also removed. This happens immediately, and not at the end of the round.
 
-## Losing Control
+## Vehicle Rules
+
+### Losing Control
 
 In Wasteland Rally the **command** attribute of a vehicle represents the drivers skill and control of their vehicle. Any time they are required to take a **command test** they are at risk of **losing control**. If a vehicle must take a command test and fails they will immediately stop moving and the player with the nearest vehicle to their own gets to change the position of the vehicle - note that this sometimes includes the player that owns the vehicle. In addition the vehicle must take a **defence test** when they lose control and take 1 point of damage if they fail.
 
 When changing the position of the car it may be rotated up to 45 degrees in any direction and moved up to 1 inch in any direction. This move cannot cause the vehicle to move over the base of another vehicle, to move out of bounds, or over any terrain. In addition, this move cannot trigger additional command tests.
 
-## Moving Over Other Vehicles
+### Moving Over Other Vehicles
 
 A vehicle is permitted to move across the base of any other vehicle so long as it has sufficient movement to completely pass to the other side. To move a vehicle over another, first move it so that it is in contact with the vehicle it wishes to pass, both vehicles will then take a **command test** to see if they lose control. If the currently activated car passes then it may complete its move, passing over the base of the other vehicle. If the test is failed the currently active car loses control as outlined above. If the car that is being passed over also fails its test it loses control but this happens after the currently active car.
 
-## Colliding With Terrain
+### Critical Hits
+
+When a vehicle is attacked and the attacking player hits with a critical success the vehicle must take a command test to avoid losing control.
+
+### Vehicle Weapons
+
+Unless otherwise specified all weapons may only target enemy units in their front arc. A weapon will have a special rule for each arc it can attack in if it does not attack in the front arc, i.e. **side arc** and **rear arc**.
+
+## Terrain
+
+### Colliding With Terrain
 
 It can be tricky to manoeuvre a vehicle so that it does not collide with terrain, especially in tight spaces. Any time a vehicle moves so that it is touching any **impassable** terrain it must take a **command test** to avoid losing control. If the vehicle has moved in such a way that it cannot continue moving without reversing then it must wait until its next activation to do so.
 
-## Wreckage
+### Wreckage
 
 Wreckage is a new terrain keyword for Wasteland Rally that represents terrain that vehicles may be able to smash through. When colliding with wreckage the player takes a command test as normal but on a success the wreckage is destroyed and removed from the game and the player can continue their movement.
 
-## Exploding Terrain
+### Exploding Terrain
 
 Exploding is a new terrain keyword for Wasteland Rally that represents volatile objects set up to be destroyed, potentially causing harm to nearby vehicles. If a player moves into contact with exploding terrain they take a command test as normal but may not move through the terrain. In addition the currently active player should roll a D12 and on a roll of 9 or more the terrain explodes.
 
@@ -71,21 +85,13 @@ Exploding terrain may also be triggered by players shooting at it. On a critical
 
 When exploding terrain explodes every vehicle within 4 inches must take a defence test, if they fail they take 3 hit points of damage. If they are touching the exploding terrain when it explodes they must take 2 defence tests, losing 3 hit points for each failure.
 
-## Critical Hits
-
-When a vehicle is attacked and the attacking player hits with a critical success the vehicle must take a command test to avoid losing control.
-
-## Vehicle Weapons
-
-Unless otherwise specified all weapons may only target enemy units in their front arc. A weapon will have a special rule for each arc it can attack in if it does not attack in the front arc, i.e. **side arc** and **rear arc**.
-
 ## Additional Special Rules
 
-## Dropper
+### Dropper
 
 Dropper is a special rule for weapons. When this weapon is used every vehicle in the rear arc and within range, both friendly and enemy, has an attack made against them with the weapon. Each attack uses the full number of attacks in the weapons profile.
 
-## Obstructing
+### Obstructing
 
 Obstructing is a special rule for weapons. When a vehicle is hit by a weapon with obstructing it immediately takes a **command test** to avoid **losing control**.
 
@@ -95,15 +101,15 @@ When you build a team you create a number of vehicles, spending points on weapon
 
 ## Vehicle Types
 
-Choose a vehicle type:
+For each vehicle in your team start by choosing a vehicle type:
 
 | Vehicle    | MOV | SKL | DEF | CMD | HP  | Special  | Points |
 | :--------- | :-: | :-: | :-: | :-: | :-: | :------- | :----: |
-| Car        | 10  |  9  |  5  |  6  | 10  |          | 8      |
-| Hotrod     | 11  |  9  |  5  |  6  | 10  | Fast     | 9      |
-| Sports Car | 12  |  9  |  5  |  6  |  9  | Fast     | 9      |
-| Buggy      | 9   |  8  |  5  |  6  |  8  | Rugged   | 7      |
-| Truck      | 9   |  9  |  4  |  6  | 12  | Rugged   | 10     |
+| Car        | 10  |  9  |  5  |  6  | 10  |          | 10     |
+| Hotrod     | 11  |  9  |  5  |  6  | 10  | Fast     | 11     |
+| Sports Car | 12  |  9  |  5  |  6  |  9  | Fast     | 11     |
+| Buggy      | 9   |  8  |  6  |  6  |  8  | Rugged   | 9      |
+| Truck      | 9   |  9  |  4  |  6  | 12  | Rugged   | 13     |
 
 ## Weapon Upgrades
 
@@ -132,7 +138,7 @@ Each vehicle may be equipped with one ranged weapon and one other weapon from an
 | Oil Dropper     |  3  |  2  |  -  |  -  | Dropper, Obstructing | 1      |
 | Spike Dropper   |  3  |  2  |  1  |  0  | Dropper, Obstructing | 2      |
 
-### Weapon Modifications
+## Weapon Modifications
 
 Each vehicle may choose to modify its ranged weapons, weapons which cost 4 or more points pay an additional point to be modified:
 
@@ -174,13 +180,70 @@ If players wish to play a single game they should agree on which size of game th
 
 Some common game sizes:
 
-- Small Game: 3-4 vehicles, 40 points
-- Medium Game: 5-7 vehicles, 75 points
-- Large Game / Campaign: 10 vehicles, 100 points
+- Small Game: 3-5 vehicles, 50 points
+- Medium Game: 6-8 vehicles, 100 points
+- Large Game: 8-10 vehicles, 150 points
 
-## Linked Games
+## Campaigns
 
-Players can choose to play a number of games back to back which each influence the next game.
+If players prefer they can play Wasteland Rally as a campaign, this is a series of linked games for 2 or more players. To play a campaign players will start by creating a roster: a large team of 8-10 vehicles from which they can draw to play each game. During a campaign vehicles may be destroyed or damaged, teams may upgrade their weapons on their vehicles, and drivers gain experience. Each victory will score a team a point with the player with the most points at the end of the campaign being the winner.
+
+### Creating a Roster
+
+The first step in playing a campaign is for each player to create a roster of between 8 and 10 vehicles up to a maximum of 100 points. Each vehicle may only be given one weapon upgrade and no other upgrades. Note these down somewhere you can track changes to your vehicles over the course of your campaign.
+
+If you do not spend all 100 points you may retain up to 10 points and add it to your **points pool**, a resource you will use throughout the campaign to maintain and upgrade your vehicles that should be tracked between games.
+
+### Campaign Structure
+
+A campaign is played through a number of rounds during which each player will be able to play 1 game. In a 2 and 3 player campaign each round has one game featuring every player. In a campaign with more players you should randomly determine which players will play against each other so that each game features 2 or 3 players, whichever works best for your group size.
+
+Your campaign can run for as many rounds as you wish, typically at least 3, with the missions as follows:
+
+- **First Round**: Two Lap Race
+- **Additional Rounds**: Randomly determine mission
+- **Final Round**: Outrun
+
+When randomly determining missions for each round simply roll a D12, if you roll the same mission as the previous round then select the next mission in the list:
+
+- 1-3: Two Lap Race
+- 4-6: Arena Race
+- 7-9: Elimination Race
+- 10-12: Battle Royale
+
+### Upgrade Stage
+
+During a campaign a new stage is added to the game, taking place after the battle stage, where players will determine the outcome of destroyed or damaged vehicles, earn points to upgrade or replace vehicles, earn experience for their drivers, and earn campaign points towards winning the overally campaign.
+
+The upgrade stage follows these steps:
+
+- Determine total points earned for the round
+- Determine outcome for each vehicle
+- Upgrade vehicles
+- Upgrade drivers
+- Tally up campaign points
+
+#### Determine Total Points Earned
+
+After a battle each player will earn points according to the objectives of the mission that was played. These should be tallied up and added to the players **points pool**.
+
+#### Determine Outcome of Vehicles
+
+Vehicles that have been damaged or destroyed are dragged back to the team's workshop after each campaign round.
+
+Roll a D12 for each vehicle that was destroyed during a game:
+
+| Number | Result                                                                              |
+| ------ | ----------------------------------------------------------------------------------- |
+| 1-9    | The vehicle is destroyed but you gain points from the scrap equal to the dice roll. |
+| 10-12  | The vehicle is recovered and can compete in the next mission as normal.             |
+
+Roll a D12 for each vehicle that was damaged during a game:
+
+| Number | Result                                                                                                    |
+| ------ | --------------------------------------------------------------------------------------------------------- |
+| 1-9    | The vehicle can be repaired at a cost equal to the dice roll, you cannot use this vehicle until repaired. |
+| 10-12  | The vehicle can be saved at the cost of 5 points, otherwise it is destroyed but you gain 5 points.        |
 
 ## Missions
 
@@ -212,7 +275,7 @@ Starting with the player that won the roll for deployment, each player alternate
 
 Teams race around a closed circuit with the last driver to cross each gate in turn eliminated from the race.
 
-#### Terrain
+##-## Terrain
 
 Set up your terrain so that there is a closed loop race track at least 60 inches long. Place a gate to indicate the start/finish line and a second gate at the furthest point on the track from the first gate.
 
