@@ -4,7 +4,7 @@
 
 Wasteland Rally is a post apocalyptic vehicle combat game module for the Open Fire tabletop wargame system. It uses heavily modified diecast cars, brimming with armour and weapons, to represent the ramshackle and deadly vehicles of the most popular sport in the Wasteland.
 
-### [Get the core rules for Open Fire here](Find out more at https://github.com/open-source-tabletop/openfire/)
+### [Get the core rules for Open Fire here](https://github.com/open-source-tabletop/openfire/)
 
 # Contents
 
