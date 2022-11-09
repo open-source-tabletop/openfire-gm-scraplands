@@ -50,6 +50,8 @@ Enclave type benefits
 
 ### Ranged Weapons
 
+Each vehicle may include one ranged weapon for the points cost listed, it may include a second weapon at twice the points cost listed.
+
 | Weapon                  | RNG | ATT | DMG | PRC | Special            | Points |
 | :---------------------- | :-: | :-: | :-: | :-: | :----------------- | :----- |
 | Light Machine Gun       | 18  | 4   | 1   | 0   |                    | 3      |
@@ -62,6 +64,8 @@ Enclave type benefits
 
 ### Melee Weapons
 
+Each vehicle may include one melee weapon, at the points cost listed, so long as it has no more than two weapons in total.
+
 | Weapon        | RNG | ATT | DMG | PRC | Special                      | Points |
 | :------------ | :-: | :-: | :-: | :-: | :--------------------------- | :----- |
 | Spiked Ram    |  1  |  2  |  2  |  2  | Melee                        | 4      |
@@ -70,6 +74,8 @@ Enclave type benefits
 
 ### Dropper Weapons
 
+Each vehicle may include one dropper weapon, at the points cost listed, so long as it has no more than two weapons in total.
+
 | Weapon          | RNG | ATT | DMG | PRC | Special              | Points |
 | :-------------- | :-: | :-: | :-: | :-: | :------------------- | :----- |
 | Smoke Dropper   |  5  |  1  |  -  |  -  | Dropper, Obstructing | 1      |
@@ -77,6 +83,15 @@ Enclave type benefits
 | Spike Dropper   |  3  |  2  |  1  |  0  | Dropper, Obstructing | 2      |
 
 ## Vehicle Upgrades
+
+Each of your vehicles may include one vehicle upgrade for the points cost listed.
+
+| Upgrade           | Effect | Points |
+| :---------------- | :----- | :----: |
+| Tank Tracks       | This vehicle may make a 2nd free manoeuvre when it moves and reduces its movement rate by 2 | 3 |
+| Reinforced Armour | This vehicle increases its defence by 1 | 2 |
+| Boost             | One use only at the start of a vehicles movement action. This unit immediately moves directly forward 9 inches | 2 |
+| Sturdy            | Add 2 to this vehicles **hit points** | 2 |
 
 ## Scavenger Weapons
 

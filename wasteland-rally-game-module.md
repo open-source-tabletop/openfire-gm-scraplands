@@ -158,7 +158,6 @@ Each vehicle is permitted upgrades totalling no more than 4 points.
 | Tank Tracks       | This vehicle may make a 2nd free manoeuvre when it moves and reduces its movement rate by 2 | 3 |
 | Reinforced Armour | This vehicle increases its defence by 1 | 2 |
 | Boost             | One use only at the start of a vehicles movement action. This unit immediately moves directly forward 9 inches | 2 |
-| Ram / Spikes      | When moving over another vehicle, if they fail their **defence test** they take 2 damage instead of 1 | 1 |
 | Sturdy            | Add 2 to this vehicles **hit points** | 2 |
 
 ## Driver Upgrades
