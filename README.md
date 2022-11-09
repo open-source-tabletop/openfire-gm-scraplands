@@ -10,7 +10,7 @@ Scraplands is a post apocalyptic combat game module for the Open Fire tabletop w
 
 ### [Scraplands: Bad Blood](https://github.com/open-source-tabletop/openfire-gm-scraplands/blob/main/scraplands-bad-blood.md)
 
-Bad Blood is the best place to start for new players: put together a crew, construct some custom vehicles, explore the Scraplands, and take down your rivals.
+Bad Blood is the best place to start for new players: put together a crew, construct some custom vehicles, explore the Scraplands, and take down your rivals. This book contains all the core rules for Scraplands that you will need for the other books.
 
 ### [Scraplands: Outcasts](https://github.com/open-source-tabletop/openfire-gm-scraplands/blob/main/scraplands-outcasts.md)
 
