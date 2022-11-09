@@ -7,15 +7,15 @@ You will need [the core rules for Open Fire](https://github.com/open-source-tabl
 
 # The End of the World
 
-When the world ended it wasn't a single event, rather it was our ever increasing greed and indifference. When the collapse began we simply pushed harder until war, disease, and famine took almost everything. When we finally decided to use the nuclear warheads the world had already ended, it was no more than a footnote to the apocalypse.
+When the world ended it wasn't a single event, rather it was our ever increasing greed and indifference that brought about our destruction. When the collapse began we simply pushed harder until an unstoppable chain of war, disease, and famine took almost everything. When the bombs were eventually dropped the world had already ended, but our biggest fear was no more than a footnote in the apocalypse.
 
-There were survivors, though not many, and the world they now inhabit is inhospitable, deadly, and everywhere covered in the detritus of unchecked human greed: these are the Scraplands. Endless abandoned and rotten cities, towns, and industry are all that remain. The survivors now band together into small enclaves for mutual protection and survival, making do with the vital scraps of food, medicine, and technology they can scavenge.
+100 years on there are survivors, though not many, and the world they now inhabit is inhospitable, deadly, and everywhere covered in the detritus of unchecked human greed. These are the Scraplands: an endless expanse of abandoned and rotten cities, towns, and industry are all that remain. Most survivors have banded together into small enclaves for mutual protection and survival, carving out some defensible position in the Scraplands, making do with whatever food, medicine, and technology they can scavenge.
 
 The Scraplands are a wild and dangerous place, if the collapsing structures or rival crews don't get you there are other horrors to contend with. Claims of mutated creatures, out of control technology, and wild mutant marauders are common among scavengers, and there are plenty of crews that simply go missing.
 
 For any crew brave or crazy enough to risk these hazards it means survival for their home enclave, and power and wealth for themselves in a world with precious few opportunities. These pressures create deadly competition among crews, scavengers willing to kill and die for little more than scraps, rivalries become long held grudges and scores must be settled.
 
-This is Scraplands: Bad Blood!
+Welcome to Scraplands: Bad Blood!
 
 # Module Rules
 
