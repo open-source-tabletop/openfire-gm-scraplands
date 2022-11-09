@@ -21,21 +21,23 @@ Modifications to vehicle rules?
 
 # Enclave Crews
 
-A crew consists of 100 points of vehicles and 50 points of scavengers
+To play a game of Scraplands you will need to create your crew, selecting vehicles and scavengers and equipping them with a range of weapons and upgrades. There are some restrictions when creating your crew:
 
-The crew must have enough vehicles for all their scavengers
+- A crew consists of 100 points of vehicles and their respective upgrades
+- A crew also has 50 points of scavengers and their respective upgrades
+- The crew must have enough vehicles for all their scavengers
 
 Enclave type benefits
 
 ## Vehicle Types
 
-| Vehicle    | MOV | SKL | DEF | CMD | HP  | Special  | Points |
-| :--------- | :-: | :-: | :-: | :-: | :-: | :------- | :----: |
-| Car        | 10  |  9  |  5  |  6  | 10  |          | 10     |
-| Hotrod     | 11  |  9  |  5  |  6  | 10  | Fast     | 11     |
-| Sports Car | 12  |  9  |  5  |  6  |  9  | Fast     | 11     |
-| Buggy      | 9   |  8  |  6  |  6  |  8  | Rugged   | 9      |
-| Truck      | 9   |  9  |  4  |  6  | 12  | Rugged   | 13     |
+| Vehicle    | MOV | SKL | DEF | CMD | HP  | Special               | Points |
+| :--------- | :-: | :-: | :-: | :-: | :-: | :-------------------- | :----: |
+| Car        | 10  |  9  |  5  |  6  | 10  | Transport (2)         | 12     |
+| Hotrod     | 11  |  9  |  5  |  6  | 10  | Transport (1), Fast   | 13     |
+| Sports Car | 12  |  9  |  5  |  6  |  9  | Transport (1), Fast   | 14     |
+| Buggy      | 9   |  8  |  6  |  6  |  8  | Transport (1), Rugged | 10     |
+| Truck      | 9   |  9  |  4  |  6  | 12  | Transport (3), Rugged | 15     |
 
 ## Scavengers
 
@@ -46,7 +48,9 @@ Enclave type benefits
 
 ## Vehicle Weapons
 
-| Ranged Weapons          | RNG | ATT | DMG | PRC | Special            | Points |
+### Ranged Weapons
+
+| Weapon                  | RNG | ATT | DMG | PRC | Special            | Points |
 | :---------------------- | :-: | :-: | :-: | :-: | :----------------- | :----- |
 | Light Machine Gun       | 18  | 4   | 1   | 0   |                    | 3      |
 | Twin Light Machine Guns | 18  | 5   | 1   | 0   | Rapid Fire         | 4      |
@@ -56,13 +60,17 @@ Enclave type benefits
 | Rocket Launcher         | 22  | 3   | 3   | 2   | Suppression, Blast | 8      |
 | Flamethrower            | 6   | 5   | 1   | 0   | Torrent            | 4      |
 
-| Melee Weapons | RNG | ATT | DMG | PRC | Special                      | Points |
+### Melee Weapons
+
+| Weapon        | RNG | ATT | DMG | PRC | Special                      | Points |
 | :------------ | :-: | :-: | :-: | :-: | :--------------------------- | :----- |
 | Spiked Ram    |  1  |  2  |  2  |  2  | Melee                        | 4      |
 | Spiked Wheels |  1  |  2  |  1  |  0  | Melee, Side Arc              | 2      |
 | Wrecker Arm   |  1  |  2  |  3  |  2  | Melee                        | 5      |
 
-| Dropped Weapons | RNG | ATT | DMG | PRC | Special              | Points |
+### Dropper Weapons
+
+| Weapon          | RNG | ATT | DMG | PRC | Special              | Points |
 | :-------------- | :-: | :-: | :-: | :-: | :------------------- | :----- |
 | Smoke Dropper   |  5  |  1  |  -  |  -  | Dropper, Obstructing | 1      |
 | Oil Dropper     |  3  |  2  |  -  |  -  | Dropper, Obstructing | 1      |
@@ -82,15 +90,15 @@ Enclave type benefits
 | :---------------- | :-: | :-: | :-: | :-: | :------------------- | :----- |
 | Improvised Weapon | 1   | 2   | 1   | 0   | Melee                | 0      |
 | Heavy Club        | 1   | 2   | 2   | 0   | Melee                | 1      |
-| Bladed Weapon     | 1   | 2   | 1   | 1   | Melee, Rending (2)   | 1      |
+| Bladed Weapon     | 1   | 2   | 1   | 1   | Melee, Rending (2)   | 2      |
 
 ## Scavenger Upgrades
 
-| Upgrade | Effect | Points |
-| :------ | :----- | :----- |
-| Skilled | Change **Battle Skill** to 5 | 3 |
-| Armoured | Change **Defence** to 5 | 4 |
-| Quick | Change **Movement Rate** to 5 | 3 |
+| Upgrade  | Effect                        | Points |
+| :------- | :---------------------------- | :----- |
+| Skilled  | Change **Battle Skill** to 5  | 3      |
+| Armoured | Change **Defence** to 5       | 4      |
+| Quick    | Change **Movement Rate** to 5 | 3      |
 
 # Campaigns
 
