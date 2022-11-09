@@ -1,9 +1,13 @@
-# Wasteland Rally
+# Scraplands
 
-![Wasteland Rally Cars](images/wasteland-rally-header.jpg "Wasteland Rally Cars")
+![Scraplands Cars](images/header.jpg "Scraplands Cars")
 
-Wasteland Rally is a post apocalyptic vehicle combat game module for the Open Fire tabletop wargame system. It uses heavily modified diecast cars, brimming with armour and weapons, to represent the ramshackle and deadly vehicles of the most popular sport in the Wasteland.
+Scraplands is a post apocalyptic combat game module for the Open Fire tabletop wargame system. It features heavily modified diecast cars, brimming with armour and weapons, and 20mm miniatures of almost any style you choose to use.
 
 ### [Get the core rules for Open Fire](https://github.com/open-source-tabletop/openfire/)
 
-### [Wasteland Rally Game Module Rules](https://github.com/open-source-tabletop/openfire-gm-wasteland-rally/blob/main/wasteland-rally-game-module.md)
+# Scraplands Modules
+
+### [Scraplands: Bad Blood](https://github.com/open-source-tabletop/openfire-gm-scraplands/blob/main/scraplands-bad-blood.md)
+### [Scraplands: Outcasts](https://github.com/open-source-tabletop/openfire-gm-scraplands/blob/main/scraplands-outcasts.md)
+### [Scraplands: Showdown](https://github.com/open-source-tabletop/openfire-gm-scraplands/blob/main/scraplands-showdown.md)
